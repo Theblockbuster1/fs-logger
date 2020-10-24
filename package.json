@@ -1,8 +1,9 @@
 {
-  "name": "fs-logger",
+  "name": "fs-logger.js",
   "version": "1.0.0",
   "description": "Appends text to a file. Simple.",
   "main": "index.js",
+  "engines" : { "node" : ">=10" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Theblockbuster1/fs-logger.git"
@@ -12,5 +13,6 @@
   "bugs": {
     "url": "https://github.com/Theblockbuster1/fs-logger/issues"
   },
-  "homepage": "https://github.com/Theblockbuster1/fs-logger#readme"
+  "homepage": "https://github.com/Theblockbuster1/fs-logger#readme",
+  "keywords": ["file logger", "logger", "fs logger", "log", "file log", "fs"]
 }
