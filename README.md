@@ -11,12 +11,12 @@ Appends text to a file. Simple. 0 dependencies.
 Based of `fs`.
 
 # Installation
-Just run `npm i fs-logger` in console.
+Just run `npm i fs-logger.js` in console.
 
 # Usage
 First import the module:
 ```javascript
-const log = require('fs-logger');
+const log = require('fs-logger.js');
 ````
 `log()`
 ```javascript
